@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFIVspZpHUxMTL6fXmrwvPAOTKREdLM2bmMn126wtLHOr1sp5mGp+90s+o5TVCB7D9DjHSwWkR+GUQs3Y6WSJg==",
+  "success": true,
+  "projectFilePath": "/home/marcelle/repository/Projetos/Extras/c-sharp/CrudWebAPIAspCore/CrudWebAPIAspCore.csproj",
+  "expectedPackageFiles": [
+    "/home/marcelle/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/marcelle/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/marcelle/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/marcelle/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/marcelle/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/marcelle/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
