@@ -8,8 +8,9 @@ using System.Linq;
 
 namespace CrudWebAPIAspCore.Controllers;
 
+[ApiController]
 [Route("filmes")]
-public class FilmesController : Controller
+public class FilmesController : ControllerBase
 {
     private readonly IFilmeService _service;
 
