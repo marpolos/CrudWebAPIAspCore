@@ -20,6 +20,14 @@ public class FilmeService : IFilmeService
 
     public void AddFilme(Filme item)
     {
+        /* var id = filmes.Count;
+        var filme = new Filme()
+        {
+            Titulo = item.Titulo,
+            Resumo = item.Resumo,
+            AnoLancamento = item.AnoLancamento,
+            Id = id,
+        }; */
         filmes.Add(item);
     }
 
